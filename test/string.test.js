@@ -11,3 +11,4 @@ test('string which is less to zero',() => {
 test('string which is greater to 10',() => {
     expect(()=> {stringLength('manzi tresor')}).toThrow();
 })
+

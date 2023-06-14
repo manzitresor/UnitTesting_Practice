@@ -59,6 +59,4 @@ test('3*2 should return 6', ()=>{
     expect(calculator.multiply(3,2)).toBe(6);
 })
 
-
-
 });
